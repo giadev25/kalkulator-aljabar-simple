@@ -1,0 +1,19 @@
+{
+  "name": "kalkulator-aljabar-simple",
+  "version": "1.0.0",
+  "description": "ini adalah repositori untuk mencoba membuat kalkulator aljabar dengan nodejs dan python (disini ada 2 project, yang satu pake nodejs yang satu lagi pake python)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/giadev25/kalkulator-aljabar-simple.git"
+  },
+  "author": "argiamahya",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/giadev25/kalkulator-aljabar-simple/issues"
+  },
+  "homepage": "https://github.com/giadev25/kalkulator-aljabar-simple#readme"
+}
